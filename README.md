@@ -18,9 +18,7 @@
 ## Installation
 1. Clone this repo into folder ;
 2. Install dependencies: `pip install -r requirements.txt` ;
-3. Go to [Google Drive](https://drive.google.com/drive/folders/1_DDrPEOE7yb1neX7TOLmA6U1idFS2Esw?usp=drive_link) and download animation files ;
-4. Place the files in [cases](https://github.com/cr1stalyoung/tracking-activity-discord-bot/tree/main/resources/cases) ;
-5. Add your bot `API_TOKEN` and connection to PostgreSQL `DATABASE_URL` in [settings.py](https://github.com/cr1stalyoung/tracking-activity-discord-bot/blob/main/settings.py) .
+3. Add your bot `API_TOKEN` and connection to PostgreSQL `DATABASE_URL` in [settings.py](https://github.com/cr1stalyoung/tracking-activity-discord-bot/blob/main/settings.py) .
 
 <hr style="border: 3px solid #000;">
 
